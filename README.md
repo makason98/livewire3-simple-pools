@@ -1,6 +1,6 @@
 # Livewire 3 Simple Polls
 
-This is a small demo application built with **Laravel 10** and **Livewire 3**.
+This is a small demo application built with **Laravel 12** and **Livewire 3**.
 
 Users can:
 
