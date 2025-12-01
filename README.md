@@ -15,3 +15,5 @@ Tech stack:
 - Livewire 3
 - Blade templates
 - Tailwind CSS (default Laravel frontend)
+
+<img width="1350" height="817" alt="image" src="https://github.com/user-attachments/assets/b8eb48a9-d619-4de9-a540-29b5eb8f884e" />
